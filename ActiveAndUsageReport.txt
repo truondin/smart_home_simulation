@@ -1,0 +1,74 @@
+*** Appliance report *** 
+
+Person Pavel Jr. Truong used: 
+	TV (id: 8702) 1 times.
+	WASHING_MACHINE (id: 142) 5 times.
+	TV (id: 5307) 3 times.
+	OVEN (id: 3713) 5 times.
+	VACUUM_CLEANER (id: 7225) 4 times.
+	TV (id: 6650) 1 times.
+	VACUUM_CLEANER (id: 2657) 2 times.
+	DISHWASHER (id: 7483) 16 times.
+Person Pavel Jr. II. Truong used: 
+	TV (id: 8702) 1 times.
+	WASHING_MACHINE (id: 142) 5 times.
+	OVEN (id: 3713) 3 times.
+	VACUUM_CLEANER (id: 7225) 4 times.
+	TV (id: 6650) 1 times.
+	TV (id: 4761) 2 times.
+	VACUUM_CLEANER (id: 2657) 6 times.
+	DISHWASHER (id: 7483) 2 times.
+Person Pavel Truong used: 
+	WASHING_MACHINE (id: 142) 9 times.
+	OVEN (id: 3713) 3 times.
+	VACUUM_CLEANER (id: 7225) 3 times.
+	TV (id: 6650) 1 times.
+	TV (id: 4761) 2 times.
+	VACUUM_CLEANER (id: 2657) 4 times.
+	DISHWASHER (id: 7483) 4 times.
+Person Pavlinka Truong used: 
+	WASHING_MACHINE (id: 142) 3 times.
+	TV (id: 5307) 1 times.
+	VACUUM_CLEANER (id: 7225) 1 times.
+	VACUUM_CLEANER (id: 2657) 2 times.
+	DISHWASHER (id: 7483) 3 times.
+
+ ---------- 
+
+Sport items report: 
+
+Person Pavel Jr. Truong used: 
+	Ski (id: 8935) 5 times.
+	Ski (id: 664) 2 times.
+	Bike (id: 6077) 5 times.
+	Bike (id: 9418) 3 times.
+	Bike (id: 9295) 1 times.
+	Ski (id: 6223) 2 times.
+Person Pavlina Truong used: 
+	Bike (id: 9295) 1 times.
+Person Pavel Jr. II. Truong used: 
+	Ski (id: 8935) 3 times.
+	Ski (id: 664) 2 times.
+	Bike (id: 6077) 2 times.
+	Bike (id: 9418) 5 times.
+	Bike (id: 9295) 2 times.
+	Ski (id: 6223) 5 times.
+Person Pavel Truong used: 
+	Ski (id: 8935) 1 times.
+	Ski (id: 664) 3 times.
+	Bike (id: 6077) 2 times.
+	Bike (id: 9418) 4 times.
+	Ski (id: 6223) 4 times.
+Person Pavlinka Truong used: 
+	Ski (id: 8935) 1 times.
+	Bike (id: 6077) 1 times.
+	Bike (id: 9418) 1 times.
+	Bike (id: 9295) 2 times.
+	Ski (id: 6223) 2 times.
+
+ ---------- 
+
+Window blinds report: 
+
+Person Pavel Jr. II. Truong rolled blinds in rooms: 
+	LOBBY 168 times.

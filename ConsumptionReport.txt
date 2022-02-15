@@ -1,0 +1,60 @@
+*** Consumption report ***
+
+Total consumption: 7555 kWh which is 37775 czk.
+ -------------------- 
+Appliance DISHWASHER (id:7483) consumption: 1075 kWh which is 5375 czk.
+ 
+Appliance FRIDGE (id:83) consumption: 120 kWh which is 600 czk.
+ 
+Appliance LAMP (id:3352) consumption: 240 kWh which is 1200 czk.
+ 
+Appliance LAMP (id:3932) consumption: 12 kWh which is 60 czk.
+ 
+Appliance LAMP (id:7554) consumption: 0 kWh which is 0 czk.
+ 
+Appliance LAMP (id:2747) consumption: 228 kWh which is 1140 czk.
+ 
+Appliance LAMP (id:7475) consumption: 102 kWh which is 510 czk.
+ 
+Appliance LAMP (id:2567) consumption: 18 kWh which is 90 czk.
+ 
+Appliance LAMP (id:2197) consumption: 6 kWh which is 30 czk.
+ 
+Appliance LAMP (id:6960) consumption: 96 kWh which is 480 czk.
+ 
+Appliance LAMP (id:1597) consumption: 0 kWh which is 0 czk.
+ 
+Appliance OVEN (id:3713) consumption: 1110 kWh which is 5550 czk.
+ 
+Appliance TV (id:5307) consumption: 270 kWh which is 1350 czk.
+ 
+Appliance TV (id:4761) consumption: 595 kWh which is 2975 czk.
+ 
+Appliance TV (id:8702) consumption: 140 kWh which is 700 czk.
+ 
+Appliance TV (id:6650) consumption: 795 kWh which is 3975 czk.
+ 
+Appliance THERMOSTAT (id:2703) consumption: 0 kWh which is 0 czk.
+ 
+Appliance THERMOSTAT (id:8656) consumption: 0 kWh which is 0 czk.
+ 
+Appliance THERMOSTAT (id:3542) consumption: 0 kWh which is 0 czk.
+ 
+Appliance THERMOSTAT (id:1197) consumption: 0 kWh which is 0 czk.
+ 
+Appliance THERMOSTAT (id:4969) consumption: 0 kWh which is 0 czk.
+ 
+Appliance THERMOSTAT (id:4063) consumption: 0 kWh which is 0 czk.
+ 
+Appliance THERMOSTAT (id:5453) consumption: 0 kWh which is 0 czk.
+ 
+Appliance THERMOSTAT (id:7649) consumption: 0 kWh which is 0 czk.
+ 
+Appliance THERMOSTAT (id:8796) consumption: 0 kWh which is 0 czk.
+ 
+Appliance VACUUM_CLEANER (id:7225) consumption: 900 kWh which is 4500 czk.
+ 
+Appliance VACUUM_CLEANER (id:2657) consumption: 940 kWh which is 4700 czk.
+ 
+Appliance WASHING_MACHINE (id:142) consumption: 908 kWh which is 4540 czk.
+ 

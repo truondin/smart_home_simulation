@@ -1,0 +1,276 @@
+*** House Configuration report *** 
+
+House: Truongovic sidlo
+
+Floor level: 0 
+	 Room: LOBBY 
+	 Window - blind status: OPENED
+ 
+	 Room: LIVING_ROOM 
+	 Window - blind status: CLOSED
+ 
+	 Room: DINING_ROOM 
+	 Window - blind status: CLOSED
+ 
+	 Room: KITCHEN 
+	 Window - blind status: CLOSED
+ 
+	 Room: BATHROOM 
+	 Window - blind status: OPENED
+ 
+
+Floor level: 1 
+	 Room: REGULAR_ROOM 
+	 Window - blind status: OPENED
+ 
+	 Room: REGULAR_ROOM 
+	 Window - blind status: CLOSED
+ 
+	 Room: REGULAR_ROOM 
+	 Window - blind status: CLOSED
+ 
+	 Room: BATHROOM 
+	 Window - blind status: OPENED
+ 
+-----------------
+Appliances:
+
+Appliance: DISHWASHER (id: 7483)
+ 	 	 in room: KITCHEN on floor: 0
+ 	 	 durability: 48
+ 	 	 state: IDLE
+ 	 	 consumption: 10 kWh
+ 	 	 idle consumption: 5 kWh 
+ 
+Appliance: FRIDGE (id: 83)
+ 	 	 in room: KITCHEN on floor: 0
+ 	 	 durability: 100
+ 	 	 state: BROKEN
+ 	 	 consumption: 8 kWh
+ 	 	 idle consumption: 4 kWh 
+ 
+Appliance: LAMP (id: 3352)
+ 	 	 in room: LOBBY on floor: 0
+ 	 	 durability: 60
+ 	 	 state: OFF
+ 	 	 consumption: 6 kWh
+ 	 	 idle consumption: 3 kWh 
+ 
+Appliance: LAMP (id: 3932)
+ 	 	 in room: LIVING_ROOM on floor: 0
+ 	 	 durability: 98
+ 	 	 state: BROKEN
+ 	 	 consumption: 6 kWh
+ 	 	 idle consumption: 3 kWh 
+ 
+Appliance: LAMP (id: 7554)
+ 	 	 in room: DINING_ROOM on floor: 0
+ 	 	 durability: 100
+ 	 	 state: BROKEN
+ 	 	 consumption: 6 kWh
+ 	 	 idle consumption: 3 kWh 
+ 
+Appliance: LAMP (id: 2747)
+ 	 	 in room: KITCHEN on floor: 0
+ 	 	 durability: 62
+ 	 	 state: OFF
+ 	 	 consumption: 6 kWh
+ 	 	 idle consumption: 3 kWh 
+ 
+Appliance: LAMP (id: 7475)
+ 	 	 in room: BATHROOM on floor: 0
+ 	 	 durability: 83
+ 	 	 state: BROKEN
+ 	 	 consumption: 6 kWh
+ 	 	 idle consumption: 3 kWh 
+ 
+Appliance: LAMP (id: 2567)
+ 	 	 in room: REGULAR_ROOM on floor: 1
+ 	 	 durability: 97
+ 	 	 state: BROKEN
+ 	 	 consumption: 6 kWh
+ 	 	 idle consumption: 3 kWh 
+ 
+Appliance: LAMP (id: 2197)
+ 	 	 in room: REGULAR_ROOM on floor: 1
+ 	 	 durability: 99
+ 	 	 state: OFF
+ 	 	 consumption: 6 kWh
+ 	 	 idle consumption: 3 kWh 
+ 
+Appliance: LAMP (id: 6960)
+ 	 	 in room: REGULAR_ROOM on floor: 1
+ 	 	 durability: 84
+ 	 	 state: BROKEN
+ 	 	 consumption: 6 kWh
+ 	 	 idle consumption: 3 kWh 
+ 
+Appliance: LAMP (id: 1597)
+ 	 	 in room: BATHROOM on floor: 1
+ 	 	 durability: 100
+ 	 	 state: BROKEN
+ 	 	 consumption: 6 kWh
+ 	 	 idle consumption: 3 kWh 
+ 
+Appliance: OVEN (id: 3713)
+ 	 	 in room: KITCHEN on floor: 0
+ 	 	 durability: 19
+ 	 	 state: ON
+ 	 	 consumption: 10 kWh
+ 	 	 idle consumption: 5 kWh 
+ 
+Appliance: TV (id: 5307)
+ 	 	 in room: LIVING_ROOM on floor: 0
+ 	 	 durability: 100
+ 	 	 state: BROKEN
+ 	 	 consumption: 10 kWh
+ 	 	 idle consumption: 5 kWh 
+ 
+Appliance: TV (id: 4761)
+ 	 	 in room: REGULAR_ROOM on floor: 1
+ 	 	 durability: 60
+ 	 	 state: BROKEN
+ 	 	 consumption: 10 kWh
+ 	 	 idle consumption: 5 kWh 
+ 
+Appliance: TV (id: 8702)
+ 	 	 in room: REGULAR_ROOM on floor: 1
+ 	 	 durability: 99
+ 	 	 state: BROKEN
+ 	 	 consumption: 10 kWh
+ 	 	 idle consumption: 5 kWh 
+ 
+Appliance: TV (id: 6650)
+ 	 	 in room: REGULAR_ROOM on floor: 1
+ 	 	 durability: 34
+ 	 	 state: BROKEN
+ 	 	 consumption: 10 kWh
+ 	 	 idle consumption: 5 kWh 
+ 
+Appliance: THERMOSTAT (id: 2703)
+ 	 	 in room: LOBBY on floor: 0
+ 	 	 durability: 100
+ 	 	 state: OFF
+ 	 	 consumption: 4 kWh
+ 	 	 idle consumption: 2 kWh 
+ 
+Appliance: THERMOSTAT (id: 8656)
+ 	 	 in room: LIVING_ROOM on floor: 0
+ 	 	 durability: 100
+ 	 	 state: OFF
+ 	 	 consumption: 4 kWh
+ 	 	 idle consumption: 2 kWh 
+ 
+Appliance: THERMOSTAT (id: 3542)
+ 	 	 in room: DINING_ROOM on floor: 0
+ 	 	 durability: 100
+ 	 	 state: OFF
+ 	 	 consumption: 4 kWh
+ 	 	 idle consumption: 2 kWh 
+ 
+Appliance: THERMOSTAT (id: 1197)
+ 	 	 in room: KITCHEN on floor: 0
+ 	 	 durability: 100
+ 	 	 state: OFF
+ 	 	 consumption: 4 kWh
+ 	 	 idle consumption: 2 kWh 
+ 
+Appliance: THERMOSTAT (id: 4969)
+ 	 	 in room: BATHROOM on floor: 0
+ 	 	 durability: 100
+ 	 	 state: OFF
+ 	 	 consumption: 4 kWh
+ 	 	 idle consumption: 2 kWh 
+ 
+Appliance: THERMOSTAT (id: 4063)
+ 	 	 in room: REGULAR_ROOM on floor: 1
+ 	 	 durability: 100
+ 	 	 state: OFF
+ 	 	 consumption: 4 kWh
+ 	 	 idle consumption: 2 kWh 
+ 
+Appliance: THERMOSTAT (id: 5453)
+ 	 	 in room: REGULAR_ROOM on floor: 1
+ 	 	 durability: 100
+ 	 	 state: OFF
+ 	 	 consumption: 4 kWh
+ 	 	 idle consumption: 2 kWh 
+ 
+Appliance: THERMOSTAT (id: 7649)
+ 	 	 in room: REGULAR_ROOM on floor: 1
+ 	 	 durability: 100
+ 	 	 state: OFF
+ 	 	 consumption: 4 kWh
+ 	 	 idle consumption: 2 kWh 
+ 
+Appliance: THERMOSTAT (id: 8796)
+ 	 	 in room: BATHROOM on floor: 1
+ 	 	 durability: 100
+ 	 	 state: OFF
+ 	 	 consumption: 4 kWh
+ 	 	 idle consumption: 2 kWh 
+ 
+Appliance: VACUUM_CLEANER (id: 7225)
+ 	 	 in room: LOBBY on floor: 0
+ 	 	 durability: 79
+ 	 	 state: IDLE
+ 	 	 consumption: 10 kWh
+ 	 	 idle consumption: 5 kWh 
+ 
+Appliance: VACUUM_CLEANER (id: 2657)
+ 	 	 in room: REGULAR_ROOM on floor: 1
+ 	 	 durability: 70
+ 	 	 state: IDLE
+ 	 	 consumption: 10 kWh
+ 	 	 idle consumption: 5 kWh 
+ 
+Appliance: WASHING_MACHINE (id: 142)
+ 	 	 in room: BATHROOM on floor: 0
+ 	 	 durability: 40
+ 	 	 state: ON
+ 	 	 consumption: 8 kWh
+ 	 	 idle consumption: 4 kWh 
+ 
+-----------------
+Sport Items:
+
+Sport item (id:664) type: Ski
+ 
+Sport item (id:8935) type: Ski
+ 
+Sport item (id:6223) type: Ski
+ 
+Sport item (id:9418) type: Bike
+ 
+Sport item (id:9295) type: Bike
+ 
+Sport item (id:6077) type: Bike
+ 
+-----------------
+People:
+
+Pavel Truong
+ 	  age: 50
+ 	  role: Father
+ 
+Pavlina Truong
+ 	  age: 40
+ 	  role: Mother
+ 
+Pavlinka Truong
+ 	  age: 16
+ 	  role: Child
+ 
+Pavel Jr. Truong
+ 	  age: 14
+ 	  role: Child
+ 
+Pavel Jr. II. Truong
+ 	  age: 7
+ 	  role: Child
+ 
+-----------------
+Pets:
+
+Hafik´s breed is Dog.
+ 
